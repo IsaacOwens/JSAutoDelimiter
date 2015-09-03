@@ -1,10 +1,3 @@
-function testAlert()
-{
-	
-	alert("jsFunctions.js successfully loaded");
-	
-};
-
 var inputText = document.getElementById("textBox");
 var copiedText = document.getElementById("copied");
 var commaButton = document.getElementById("comma");
